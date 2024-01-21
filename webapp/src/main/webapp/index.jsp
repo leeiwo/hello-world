@@ -1,5 +1,5 @@
 <h1> YOU GOT THIS ALMOST THERE </h1>
-<h2> OWIE WAS HERE GUMANA KA </h2>
+<h2> WOW DEVOPS YERN!? </h2>
 <form action="action_page.php">
   <div class="container">
     <h1>New user Register for DevOps Learning</h1>
